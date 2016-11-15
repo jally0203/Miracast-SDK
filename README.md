@@ -24,3 +24,6 @@ two android devices
 
 ![](https://github.com/wirelessdisplay/Miracast/blob/master/mira_two.gif)
 
+
+
+If you are intrested in program, you can discuss with us, contact QQ:582349005,or you can leave a message on this project.
