@@ -2,7 +2,7 @@ Miracast is a groundbreaking solution for seamlessly displaying multimedia betwe
 Wifi-direct,RTSP,media decode is main procedure in miracast:
 Wifi-direct(p2p):setup the connection between devices.
 RTSP:mainly for capability negotiation
-![](https://github.com/wirelessdisplay/Miracast/mira_rtsp.png)
+![](https://github.com/wirelessdisplay/Miracast/blob/master/mira_rtsp.png)
 OPTIONS,GET_PARAMETER,SET_PARAMETER,SETUP,PLAY and TEARDOWN all done is RTSP.
 wfd_content_protection: none
 wfd_video_formats: 00 00 03 10 0000001f 00000003 00000000 00 0000 0000 10 none none
@@ -12,8 +12,8 @@ media decode:decode and render the received audio/video data
 
 We have realized multiple devices casting to one screen together.
 single android device
-![](https://github.com/wirelessdisplay/Miracast/mira_one.gif)
+![](https://github.com/wirelessdisplay/Miracast/blob/master/mira_one.gif)
 
 two android devices
-![](https://github.com/wirelessdisplay/Miracast/mira_two.gif)
+![](https://github.com/wirelessdisplay/Miracast/blob/master/mira_two.gif)
 
