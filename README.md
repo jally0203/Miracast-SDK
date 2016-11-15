@@ -1,1 +1,1 @@
-# Miracast
+Wi-Fi CERTIFIED Miracast™ is a groundbreaking solution for seamlessly displaying multimedia between devices, without cables or a network connection.Users can do things like view pictures from a smartphone on a big screen television, share a laptop screen with the conference room projector in real-time, and watch live programs from a home cable box on a tablet.
