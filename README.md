@@ -33,12 +33,12 @@ Business
 DEMO
 -----
 
-# one android device
+### one android device
 ![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_1.jpg)
 
-# three android device
+### three android device
 ![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_3.jpg)
 
-# four android device
+### four android device
 ![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_4.jpg)
 
