@@ -33,11 +33,17 @@ Business
 DEMO
 -----
 
-single android device
+# one android device
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_1.gif)
 
-![](https://github.com/wirelessdisplay/Miracast/blob/master/mira_one.gif)
+# two android device
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_2.gif)
 
-two android devices
+# three android device
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_3.gif)
 
-![](https://github.com/wirelessdisplay/Miracast/blob/master/mira_two.gif)
+# four android device
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_4.gif)
 
+# widi
+![](https://github.com/wirelessdisplay/Miracast/blob/master/widi_1.gif)
