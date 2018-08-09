@@ -1,4 +1,4 @@
-Miracast Sink
+Miracast Sink SDK
 =====
 Feature
 -----
