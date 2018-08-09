@@ -34,11 +34,12 @@ DEMO
 -----
 
 ### one android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_1.jpg)
-
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastONE.jpg)
+### two android device
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastTWO.jpg)
 ### three android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_3.jpg)
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastTHREE.jpg)
 
 ### four android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracast_4.jpg)
-
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastFOUR.jpg)
+![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastFOURmessage.jpg)
