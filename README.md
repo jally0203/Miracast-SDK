@@ -42,4 +42,3 @@ DEMO
 
 ### four android device
 ![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastFOUR.jpg)
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastFOURmessage.jpg)
