@@ -23,7 +23,7 @@ Support Sink Hardware
 Technical Support
 -----
 * QQ group: 582349005
-* Web Site: http://www.wirelessdisplay.cn/
+* Web Site: http://www.bijie.link
 
 Business
 ---
