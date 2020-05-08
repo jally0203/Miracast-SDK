@@ -25,6 +25,7 @@ Technical Support
 -----
 * QQ group: 582349005
 * Web Site: http://www.bijie.link
+* [Miracast SDK API](https://www.bijie.link/document-of-sdk/document-of-miracast-sdk-on-android/)
 
 Business
 ---
