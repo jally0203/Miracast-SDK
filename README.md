@@ -32,7 +32,7 @@ Business
 * mail: sales@bijienetworks.com
 * Tel: (+86)0512-67663822
 
-DEMO
+Miracast on Android DEMO
 -----
 [![Miracast on Android to SDK](https://res.cloudinary.com/marcomontalbano/image/upload/v1588938433/video_to_markdown/images/youtube--a2p8lRKjv3k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/a2p8lRKjv3k "Miracast on Android to SDK")
 
