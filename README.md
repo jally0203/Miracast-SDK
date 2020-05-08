@@ -29,7 +29,7 @@ Technical Support
 
 Business
 ---
-* mail: marketing@bijienetworks.com
+* mail: sales@bijienetworks.com
 * Tel: (+86)0512-67663822
 
 DEMO
