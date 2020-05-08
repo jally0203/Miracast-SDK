@@ -5,6 +5,7 @@ Feature
 * Miracast Sink
 * Widi Sink
 * HDCP
+* UIBC
 * Microsoft Cursor/Intel Cursor
 * Multi Sources
 
@@ -32,13 +33,5 @@ Business
 
 DEMO
 -----
+[![Miracast on Android to SDK](https://res.cloudinary.com/marcomontalbano/image/upload/v1588938433/video_to_markdown/images/youtube--a2p8lRKjv3k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/a2p8lRKjv3k "Miracast on Android to SDK")
 
-### one android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastONE.jpg)
-### two android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastTWO.jpg)
-### three android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastTHREE.jpg)
-
-### four android device
-![](https://github.com/wirelessdisplay/Miracast/blob/master/miracastFOUR.jpg)
